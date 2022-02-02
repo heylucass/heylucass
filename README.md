@@ -27,7 +27,11 @@ actually studying:
 
 ## Socials
 <section>
-  <img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' />
-  <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  <a href='https://steamcommunity.com/id/call-911-now/'>
+    <img src='https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white' />
+   <a> 
+  <a href='https://www.linkedin.com/in/luccas-nasc-01a4a4215/'>  
+    <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+   <a>  
   <img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white' />
 </section>
