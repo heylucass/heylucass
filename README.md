@@ -1,14 +1,7 @@
 ## Hi there!
-**Lucas Nascimento, 17, Brazil...**
+**Lucas Nascimento, 21, Brazil...**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heylucass)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-In my spare time: 
-* Music study
-* Hiking
-* Play RPG
 
 actually studying: 
 * React
